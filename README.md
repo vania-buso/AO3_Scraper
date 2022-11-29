@@ -1,2 +1,2 @@
 # AO3_Scraper
-Scraper for AO3 (WIP)
+Procedural scraper to scrape data from [Archive of Our Own (AO3)](https://archiveofourown.org/). 
